@@ -90,7 +90,7 @@
         <skip.integration.tests>false</skip.integration.tests>
 
         <!-- Dependencies versions -->
-        <antlr4.version>4.9.1</antlr4.version>
+        <antlr4.version>4.9.2</antlr4.version>
         <commons-lang3.version>3.11</commons-lang3.version>
         <commons-beanutils.version>1.9.4</commons-beanutils.version>
         <maven-scm-provider-gitexe.version>1.11.2</maven-scm-provider-gitexe.version>
