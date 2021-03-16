@@ -14,7 +14,7 @@
     <description>Searchy Sample Application in Kotlin with MongoDB</description>
 
     <properties>
-        <nv-i18n.version>1.27</nv-i18n.version>
+        <nv-i18n.version>1.28</nv-i18n.version>
     </properties>
 
     <dependencies>

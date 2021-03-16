@@ -13,7 +13,7 @@
     <description>Searchy Common Library</description>
 
     <properties>
-        <nv-i18n.version>1.27</nv-i18n.version>
+        <nv-i18n.version>1.28</nv-i18n.version>
 
         <maven.deploy.skip>true</maven.deploy.skip>
     </properties>
