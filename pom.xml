@@ -45,7 +45,7 @@
         <java.version>11</java.version>
         <maven.compiler.release>11</maven.compiler.release>
         <maven.version>[3.6.0,)</maven.version>
-        <kotlin.version>1.4.21</kotlin.version>
+        <kotlin.version>1.4.32</kotlin.version>
         <spring-boot.version>2.4.2</spring-boot.version>
 
         <maven-assembly-plugin.version>3.3.0</maven-assembly-plugin.version>
