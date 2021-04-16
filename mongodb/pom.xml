@@ -13,7 +13,7 @@
     <description>The Searchy MongoDB module provides integration with the MongoDB API.</description>
 
     <properties>
-        <testcontainers.mongodb.version>1.15.2</testcontainers.mongodb.version>
+        <testcontainers.mongodb.version>1.15.3</testcontainers.mongodb.version>
     </properties>
 
     <dependencies>
