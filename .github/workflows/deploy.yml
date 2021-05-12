@@ -20,7 +20,7 @@ jobs:
           gpg --list-secret-keys --keyid-format LONG
 
       - name: 'Checkout repository on branch: ${{ github.REF }}'
-        uses: actions/checkout@v2
+        uses: actions/checkout@v2.3.4
         env:
           GIT_TRACE: 1
           GIT_CURL_VERBOSE: 1
