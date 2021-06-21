@@ -97,7 +97,7 @@
 
         <!-- Testing dependencies versions -->
         <mockito-kotlin.version>2.2.0</mockito-kotlin.version>
-        <json-unit-spring.version>2.24.0</json-unit-spring.version>
+        <json-unit-spring.version>2.27.0</json-unit-spring.version>
     </properties>
 
     <modules>
